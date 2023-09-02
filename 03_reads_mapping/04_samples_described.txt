@@ -1,0 +1,19 @@
+Control	Control-50-1_RSEM
+Control	Control-51-12_RSEM
+Control	Control-53-6_RSEM
+
+0h	0h-50-1_RSEM
+0h	0h-51-12_RSEM
+0h	0h-53-6_RSEM
+
+1h	1h-50-1_RSEM
+1h	1h-51-12_RSEM
+1h	1h-53-6_RSEM
+
+23h	23h-50-1_RSEM
+23h	23h-51-12_RSEM
+23h	23h-53-6_RSEM
+
+48h	48h-50-1_RSEM
+48h	48h-51-12_RSEM
+48h	48h-53-6_RSEM
